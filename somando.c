@@ -6,7 +6,7 @@ Aulão dos veteranos
 int soma(int main)
 int main(){
 
-return 
+return 0;
 }
 
 int soma(int num){
